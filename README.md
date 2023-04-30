@@ -1,1 +1,1 @@
-# AI_Project : System for identify a violent content
+# AI_Project : system for identify a violent content
